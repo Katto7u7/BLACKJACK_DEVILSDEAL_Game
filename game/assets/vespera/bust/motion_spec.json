@@ -1,0 +1,89 @@
+{
+ "fps": 24,
+ "resolucion_sim": 1024,
+ "pivote_cabeza": [
+  512,
+  500
+ ],
+ "pivote_cuerpo": [
+  512,
+  1000
+ ],
+ "muelles": {
+  "cabeza_xy": {
+   "k": 60,
+   "c": 9
+  },
+  "cabeza_rot": {
+   "k": 50,
+   "c": 7
+  },
+  "cuerpo_resp": {
+   "k": 40,
+   "c": 8
+  },
+  "pelo": {
+   "k": 26,
+   "c": 2.2
+  },
+  "inclinacion": {
+   "k": 30,
+   "c": 6
+  }
+ },
+ "parpadeo": {
+  "intervalo_s": [
+   2.0,
+   5.0
+  ],
+  "duracion_s": 0.16
+ },
+ "labios": {
+  "secuencia": [
+   "m_soft",
+   "m_o",
+   "m_shout",
+   "m_o",
+   "m_soft",
+   "m_smirk"
+  ],
+  "hz": 9
+ },
+ "reacciones": {
+  "lean_in": "kick inclinacion +40, rot -18",
+  "recoil": "inclinacion -110, cabeza_y -120, pelo +240",
+  "laugh": "cabeza_y -60, pelo -160"
+ },
+ "linea_tiempo_demo": [
+  [
+   0.0,
+   "base",
+   "base"
+  ],
+  [
+   2.0,
+   "e_smug",
+   "m_smirk"
+  ],
+  [
+   4.4,
+   "e_shock",
+   "m_o"
+  ],
+  [
+   5.6,
+   "e_angry",
+   "m_pout"
+  ],
+  [
+   7.0,
+   "e_happy",
+   "m_laugh"
+  ],
+  [
+   9.0,
+   "base",
+   "base"
+  ]
+ ]
+}

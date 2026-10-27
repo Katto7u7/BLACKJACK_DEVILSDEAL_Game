@@ -1,0 +1,12 @@
+[package]
+name = "devils_bridge"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+devils_core = { path = "../devils_core" }
+godot = "0.4"
+serde_json = "1"

@@ -1,0 +1,303 @@
+[
+ {
+  "file": "cuerno_izq__linea.png",
+  "name": "cuerno_izq_linea",
+  "group": "cuerno_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cuerno_izq__color.png",
+  "name": "cuerno_izq_color",
+  "group": "cuerno_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cuerno_izq__sombra_propia.png",
+  "name": "cuerno_izq_sombra_propia",
+  "group": "cuerno_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cuerno_der__linea.png",
+  "name": "cuerno_der_linea",
+  "group": "cuerno_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cuerno_der__color.png",
+  "name": "cuerno_der_color",
+  "group": "cuerno_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cuerno_der__sombra_propia.png",
+  "name": "cuerno_der_sombra_propia",
+  "group": "cuerno_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "pelo_trasero__linea.png",
+  "name": "pelo_trasero_linea",
+  "group": "pelo_trasero",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "pelo_trasero__color.png",
+  "name": "pelo_trasero_color",
+  "group": "pelo_trasero",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "pelo_trasero__sombra_propia.png",
+  "name": "pelo_trasero_sombra_propia",
+  "group": "pelo_trasero",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "piernas__linea.png",
+  "name": "piernas_linea",
+  "group": "piernas",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "piernas__color.png",
+  "name": "piernas_color",
+  "group": "piernas",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "piernas__sombra_propia.png",
+  "name": "piernas_sombra_propia",
+  "group": "piernas",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "falda__linea.png",
+  "name": "falda_linea",
+  "group": "falda",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "falda__color.png",
+  "name": "falda_color",
+  "group": "falda",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "falda__sombra_propia.png",
+  "name": "falda_sombra_propia",
+  "group": "falda",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "torso__linea.png",
+  "name": "torso_linea",
+  "group": "torso",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "torso__color.png",
+  "name": "torso_color",
+  "group": "torso",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "torso__sombra_propia.png",
+  "name": "torso_sombra_propia",
+  "group": "torso",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "brazo_der__linea.png",
+  "name": "brazo_der_linea",
+  "group": "brazo_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "brazo_der__color.png",
+  "name": "brazo_der_color",
+  "group": "brazo_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "brazo_der__sombra_propia.png",
+  "name": "brazo_der_sombra_propia",
+  "group": "brazo_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "brazo_izq__linea.png",
+  "name": "brazo_izq_linea",
+  "group": "brazo_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "brazo_izq__color.png",
+  "name": "brazo_izq_color",
+  "group": "brazo_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "brazo_izq__sombra_propia.png",
+  "name": "brazo_izq_sombra_propia",
+  "group": "brazo_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cabeza__linea.png",
+  "name": "cabeza_linea",
+  "group": "cabeza",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cabeza__color.png",
+  "name": "cabeza_color",
+  "group": "cabeza",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "cabeza__sombra_propia.png",
+  "name": "cabeza_sombra_propia",
+  "group": "cabeza",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "ojo_izq__linea.png",
+  "name": "ojo_izq_linea",
+  "group": "ojo_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "ojo_izq__color.png",
+  "name": "ojo_izq_color",
+  "group": "ojo_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "ojo_izq__sombra_propia.png",
+  "name": "ojo_izq_sombra_propia",
+  "group": "ojo_izq",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "ojo_der__linea.png",
+  "name": "ojo_der_linea",
+  "group": "ojo_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "ojo_der__color.png",
+  "name": "ojo_der_color",
+  "group": "ojo_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "ojo_der__sombra_propia.png",
+  "name": "ojo_der_sombra_propia",
+  "group": "ojo_der",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "boca__linea.png",
+  "name": "boca_linea",
+  "group": "boca",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "boca__color.png",
+  "name": "boca_color",
+  "group": "boca",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "boca__sombra_propia.png",
+  "name": "boca_sombra_propia",
+  "group": "boca",
+  "blend": "normal",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__cuello_menton.png",
+  "name": "sombra_cuello_menton",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__pelo_sobre_pecho.png",
+  "name": "sombra_pelo_sobre_pecho",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__bajo_pecho.png",
+  "name": "sombra_bajo_pecho",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__brazo_izq_sobre_torso.png",
+  "name": "sombra_brazo_izq_sobre_torso",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__cintura_falda.png",
+  "name": "sombra_cintura_falda",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__bajo_falda_piernas.png",
+  "name": "sombra_bajo_falda_piernas",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ },
+ {
+  "file": "sombra__cabeza_sobre_cuernos.png",
+  "name": "sombra_cabeza_sobre_cuernos",
+  "group": "sombras",
+  "blend": "multiply",
+  "opacity": 255
+ }
+]

@@ -1,0 +1,1158 @@
+[
+  {
+    "file": "concepts/tests/styleA_vespera_s1000.png",
+    "date": "2026-10-25T18:38:56",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold embroidery, high lace collar, confident seductive smile, upper body, luxury gothic casino interior, candlelight, black marble, red velvet, art deco, warm lighting, red rim light, clean lineart, anime visual novel style",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 1000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/tests/styleA_vespera_s1001.png",
+    "date": "2026-10-25T18:39:17",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold embroidery, high lace collar, confident seductive smile, upper body, luxury gothic casino interior, candlelight, black marble, red velvet, art deco, warm lighting, red rim light, clean lineart, anime visual novel style",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 1001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/tests/styleB_vespera_cel_s2000.png",
+    "date": "2026-10-25T18:39:47",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold trim, high lace collar, playful smirk, upper body, flat colors, cel shading, thick clean lineart, simple dark red background, limited palette, visual novel sprite, front view",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 2000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/tests/styleB_vespera_cel_s2001.png",
+    "date": "2026-10-25T18:40:08",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold trim, high lace collar, playful smirk, upper body, flat colors, cel shading, thick clean lineart, simple dark red background, limited palette, visual novel sprite, front view",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 2001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/tests/styleC_vespera_dark_s3000.png",
+    "date": "2026-10-25T18:40:30",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy gothic gown with gold embroidery, intense gaze, dramatic lighting, deep shadows, crimson rim light, smoke, chiaroscuro, painterly anime, cinematic, gothic casino, upper body",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 3000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/tests/styleC_vespera_dark_s3001.png",
+    "date": "2026-10-25T18:40:51",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy gothic gown with gold embroidery, intense gaze, dramatic lighting, deep shadows, crimson rim light, smoke, chiaroscuro, painterly anime, cinematic, gothic casino, upper body",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 3001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_front_s4000.png",
+    "date": "2026-10-25T18:52:31",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold trim, high lace collar, red gem brooch, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, simple plain light gray background, front view, facing viewer, arms at sides, confident smile",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 4000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_front_s4001.png",
+    "date": "2026-10-25T18:52:52",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold trim, high lace collar, red gem brooch, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, simple plain light gray background, front view, facing viewer, arms at sides, confident smile",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 4001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_front_s4002.png",
+    "date": "2026-10-25T18:53:14",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold trim, high lace collar, red gem brooch, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, simple plain light gray background, front view, facing viewer, arms at sides, confident smile",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 4002,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_front_s4003.png",
+    "date": "2026-10-25T18:53:35",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, long black hair with ruby red highlights, curved black horns, glowing red eyes, burgundy and black gothic dress with gold trim, high lace collar, red gem brooch, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, simple plain light gray background, front view, facing viewer, arms at sides, confident smile",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 4003,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_mix_s5000.png",
+    "date": "2026-10-25T19:24:46",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns sweeping outward, glowing red eyes, strapless sweetheart corset bodice with gold lacing, bare shoulders, detached puffy sleeves with red ruffled cuffs, lace choker with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, gold trim, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 5000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_mix_s5001.png",
+    "date": "2026-10-25T19:25:07",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns sweeping outward, glowing red eyes, strapless sweetheart corset bodice with gold lacing, bare shoulders, detached puffy sleeves with red ruffled cuffs, lace choker with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, gold trim, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 5001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_mix_s5002.png",
+    "date": "2026-10-25T19:25:28",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns sweeping outward, glowing red eyes, strapless sweetheart corset bodice with gold lacing, bare shoulders, detached puffy sleeves with red ruffled cuffs, lace choker with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, gold trim, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 5002,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_mix_s5003.png",
+    "date": "2026-10-25T19:25:50",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns sweeping outward, glowing red eyes, strapless sweetheart corset bodice with gold lacing, bare shoulders, detached puffy sleeves with red ruffled cuffs, lace choker with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, gold trim, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 5003,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_mix_s5004.png",
+    "date": "2026-10-25T19:26:11",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns sweeping outward, glowing red eyes, strapless sweetheart corset bodice with gold lacing, bare shoulders, detached puffy sleeves with red ruffled cuffs, lace choker with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, gold trim, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 5004,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_mix_s5005.png",
+    "date": "2026-10-25T19:26:32",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns sweeping outward, glowing red eyes, strapless sweetheart corset bodice with gold lacing, bare shoulders, detached puffy sleeves with red ruffled cuffs, lace choker with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, gold trim, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 5005,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato"
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v2_s6000.png",
+    "date": "2026-10-25T19:30:58",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, closed high neckline dress covering the shoulders, long puffy sleeves with red ruffled cuffs, corset bodice with gold lacing, large bust, lace collar with red gem, layered full skirt black with red ruffle underskirt and gold trim, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background, no bare shoulders",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 6000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v2_s6001.png",
+    "date": "2026-10-25T19:31:20",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, closed high neckline dress covering the shoulders, long puffy sleeves with red ruffled cuffs, corset bodice with gold lacing, large bust, lace collar with red gem, layered full skirt black with red ruffle underskirt and gold trim, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background, no bare shoulders",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 6001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v2_s6002.png",
+    "date": "2026-10-25T19:31:41",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, closed high neckline dress covering the shoulders, long puffy sleeves with red ruffled cuffs, corset bodice with gold lacing, large bust, lace collar with red gem, layered full skirt black with red ruffle underskirt and gold trim, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background, no bare shoulders",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 6002,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v2_s6003.png",
+    "date": "2026-10-25T19:32:02",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, closed high neckline dress covering the shoulders, long puffy sleeves with red ruffled cuffs, corset bodice with gold lacing, large bust, lace collar with red gem, layered full skirt black with red ruffle underskirt and gold trim, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background, no bare shoulders",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 6003,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v2_s6004.png",
+    "date": "2026-10-25T19:32:23",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, closed high neckline dress covering the shoulders, long puffy sleeves with red ruffled cuffs, corset bodice with gold lacing, large bust, lace collar with red gem, layered full skirt black with red ruffle underskirt and gold trim, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background, no bare shoulders",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 6004,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v2_s6005.png",
+    "date": "2026-10-25T19:32:45",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, closed high neckline dress covering the shoulders, long puffy sleeves with red ruffled cuffs, corset bodice with gold lacing, large bust, lace collar with red gem, layered full skirt black with red ruffle underskirt and gold trim, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, facing viewer, confident smile, simple plain light gray background, no bare shoulders",
+    "negative": "lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+    "seed": 6005,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v3_s7000.png",
+    "date": "2026-10-25T19:33:23",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, high neck dress, shoulders fully covered by black fabric, long sleeves with red ruffled cuffs, black corset bodice with gold lacing and red panel, fitted bust, large breasts, lace high collar with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, arms at sides, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, detached sleeves, cleavage window, bare arms, gray hair, white hair, wings, tail, weapon",
+    "seed": 7000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.35
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v3_s7001.png",
+    "date": "2026-10-25T19:33:44",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, high neck dress, shoulders fully covered by black fabric, long sleeves with red ruffled cuffs, black corset bodice with gold lacing and red panel, fitted bust, large breasts, lace high collar with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, arms at sides, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, detached sleeves, cleavage window, bare arms, gray hair, white hair, wings, tail, weapon",
+    "seed": 7001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.35
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v3_s7002.png",
+    "date": "2026-10-25T19:34:05",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, high neck dress, shoulders fully covered by black fabric, long sleeves with red ruffled cuffs, black corset bodice with gold lacing and red panel, fitted bust, large breasts, lace high collar with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, arms at sides, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, detached sleeves, cleavage window, bare arms, gray hair, white hair, wings, tail, weapon",
+    "seed": 7002,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.35
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v3_s7003.png",
+    "date": "2026-10-25T19:34:28",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, high neck dress, shoulders fully covered by black fabric, long sleeves with red ruffled cuffs, black corset bodice with gold lacing and red panel, fitted bust, large breasts, lace high collar with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, arms at sides, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, detached sleeves, cleavage window, bare arms, gray hair, white hair, wings, tail, weapon",
+    "seed": 7003,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.35
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v3_s7004.png",
+    "date": "2026-10-25T19:34:49",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, high neck dress, shoulders fully covered by black fabric, long sleeves with red ruffled cuffs, black corset bodice with gold lacing and red panel, fitted bust, large breasts, lace high collar with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, arms at sides, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, detached sleeves, cleavage window, bare arms, gray hair, white hair, wings, tail, weapon",
+    "seed": 7004,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.35
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v3_s7005.png",
+    "date": "2026-10-25T19:35:12",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with ruby red streaks, wide curved black horns, glowing red eyes, high neck dress, shoulders fully covered by black fabric, long sleeves with red ruffled cuffs, black corset bodice with gold lacing and red panel, fitted bust, large breasts, lace high collar with red gem, short layered black skirt with red ruffle hem, black tights, black ankle boots with red details, flat colors, cel shading, thick clean black lineart, limited palette, visual novel character sprite, full body, standing, front view, arms at sides, confident smile, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, detached sleeves, cleavage window, bare arms, gray hair, white hair, wings, tail, weapon",
+    "seed": 7005,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/sheet/vespera_mix_s5000.png",
+    "ref_weight": 0.35
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v4_s8000.png",
+    "date": "2026-10-25T19:38:07",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, wide manic eyes, glowing crimson slit pupils, sharp teeth, dominant seductive expression, looking down at viewer, tilted head, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar dress with keyhole neckline and cleavage, shoulders covered, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid saturated crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots with red details, vibrant intense colors, high contrast, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, front view, one hand reaching toward viewer, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, gentle smile, cute",
+    "seed": 8000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": null,
+    "ref_weight": null
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v4_s8001.png",
+    "date": "2026-10-25T19:38:28",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, wide manic eyes, glowing crimson slit pupils, sharp teeth, dominant seductive expression, looking down at viewer, tilted head, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar dress with keyhole neckline and cleavage, shoulders covered, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid saturated crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots with red details, vibrant intense colors, high contrast, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, front view, one hand reaching toward viewer, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, gentle smile, cute",
+    "seed": 8001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": null,
+    "ref_weight": null
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v4_s8002.png",
+    "date": "2026-10-25T19:38:49",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, wide manic eyes, glowing crimson slit pupils, sharp teeth, dominant seductive expression, looking down at viewer, tilted head, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar dress with keyhole neckline and cleavage, shoulders covered, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid saturated crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots with red details, vibrant intense colors, high contrast, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, front view, one hand reaching toward viewer, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, gentle smile, cute",
+    "seed": 8002,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": null,
+    "ref_weight": null
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v4_s8003.png",
+    "date": "2026-10-25T19:39:10",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, wide manic eyes, glowing crimson slit pupils, sharp teeth, dominant seductive expression, looking down at viewer, tilted head, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar dress with keyhole neckline and cleavage, shoulders covered, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid saturated crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots with red details, vibrant intense colors, high contrast, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, front view, one hand reaching toward viewer, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, gentle smile, cute",
+    "seed": 8003,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": null,
+    "ref_weight": null
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v4_s8004.png",
+    "date": "2026-10-25T19:39:31",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, wide manic eyes, glowing crimson slit pupils, sharp teeth, dominant seductive expression, looking down at viewer, tilted head, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar dress with keyhole neckline and cleavage, shoulders covered, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid saturated crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots with red details, vibrant intense colors, high contrast, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, front view, one hand reaching toward viewer, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, gentle smile, cute",
+    "seed": 8004,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": null,
+    "ref_weight": null
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_v4_s8005.png",
+    "date": "2026-10-25T19:39:52",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, wide manic eyes, glowing crimson slit pupils, sharp teeth, dominant seductive expression, looking down at viewer, tilted head, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar dress with keyhole neckline and cleavage, shoulders covered, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid saturated crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots with red details, vibrant intense colors, high contrast, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, front view, one hand reaching toward viewer, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, gentle smile, cute",
+    "seed": 8005,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": null,
+    "ref_weight": null
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_side_s9000.png",
+    "date": "2026-10-25T19:48:20",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, glowing red eyes, high collar dress with keyhole neckline, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from side, profile view, facing right",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, cute",
+    "seed": 9000,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.8
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_side_s9001.png",
+    "date": "2026-10-25T19:48:43",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, glowing red eyes, high collar dress with keyhole neckline, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from side, profile view, facing right",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, cute",
+    "seed": 9001,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.8
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_side_s9002.png",
+    "date": "2026-10-25T19:49:05",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, glowing red eyes, high collar dress with keyhole neckline, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from side, profile view, facing right",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, cute",
+    "seed": 9002,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.8
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_back_s9100.png",
+    "date": "2026-10-25T19:49:30",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, glowing red eyes, high collar dress with keyhole neckline, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from behind, back view, facing away",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, cute",
+    "seed": 9100,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.8
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_back_s9101.png",
+    "date": "2026-10-25T19:49:52",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, glowing red eyes, high collar dress with keyhole neckline, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from behind, back view, facing away",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, cute",
+    "seed": 9101,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.8
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_back_s9102.png",
+    "date": "2026-10-25T19:50:15",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, glowing red eyes, high collar dress with keyhole neckline, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and deep black outfit with bright gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from behind, back view, facing away",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, off-shoulder, strapless, gray hair, white hair, pastel, muted colors, desaturated, wings, tail, weapon, cape, cloak, shy, cute",
+    "seed": 9102,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 5.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.8
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_back2_s9200.png",
+    "date": "2026-10-25T19:50:54",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar black dress, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and black outfit with gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from behind, back view, facing away, looking away",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, gray hair, white hair, pastel, muted colors, wings, tail, weapon, cape, cloak, looking at viewer, front view, facing viewer",
+    "seed": 9200,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.45
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_back2_s9201.png",
+    "date": "2026-10-25T19:51:15",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar black dress, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and black outfit with gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from behind, back view, facing away, looking away",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, gray hair, white hair, pastel, muted colors, wings, tail, weapon, cape, cloak, looking at viewer, front view, facing viewer",
+    "seed": 9201,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.45
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_back2_s9202.png",
+    "date": "2026-10-25T19:51:36",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar black dress, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and black outfit with gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from behind, back view, facing away, looking away",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, gray hair, white hair, pastel, muted colors, wings, tail, weapon, cape, cloak, looking at viewer, front view, facing viewer",
+    "seed": 9202,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.45
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_side2_s9300.png",
+    "date": "2026-10-25T19:51:59",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar black dress, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and black outfit with gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from side, profile, facing right, looking right",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, gray hair, white hair, pastel, muted colors, wings, tail, weapon, cape, cloak, looking at viewer, front view, facing viewer",
+    "seed": 9300,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.45
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_side2_s9301.png",
+    "date": "2026-10-25T19:52:21",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar black dress, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and black outfit with gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from side, profile, facing right, looking right",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, gray hair, white hair, pastel, muted colors, wings, tail, weapon, cape, cloak, looking at viewer, front view, facing viewer",
+    "seed": 9301,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.45
+  },
+  {
+    "file": "concepts/vespera/sheet/vespera_side2_s9302.png",
+    "date": "2026-10-25T19:52:43",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair down to the hips with vivid red streaks, wide curved black horns, high collar black dress, long sleeves with red ruffled cuffs, black corset bodice with gold lacing, vivid crimson red and black outfit with gold trim, short layered skirt with red ruffle hem, black tights, black ankle boots, vibrant colors, flat colors, cel shading, thick clean black lineart, visual novel character sprite, full body, standing, simple plain light gray background, from side, profile, facing right, looking right",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, bare shoulders, gray hair, white hair, pastel, muted colors, wings, tail, weapon, cape, cloak, looking at viewer, front view, facing viewer",
+    "seed": 9302,
+    "size": [
+      832,
+      1216
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.45
+  },
+  {
+    "file": "concepts/vespera/expr/expr_charm_s11000.png",
+    "date": "2026-10-25T19:53:20",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, seductive smile, half-lidded eyes, blushing, head tilted, finger to lips",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_malice_s11000.png",
+    "date": "2026-10-25T19:53:40",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, evil grin, sharp teeth, narrowed eyes, mischievous, scheming",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_arrogance_s11000.png",
+    "date": "2026-10-25T19:54:00",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, smug smirk, chin raised, looking down at viewer, one eyebrow raised, haughty",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_jealousy_s11000.png",
+    "date": "2026-10-25T19:54:19",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, jealous, pouting, glaring sideways, clenched teeth, dark aura, cheeks puffed",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_guilt_s11000.png",
+    "date": "2026-10-25T19:54:39",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, guilty, averted eyes, looking away, biting lip, sad smile, ears down",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_vulnerability_s11000.png",
+    "date": "2026-10-25T19:54:59",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, vulnerable, teary eyes, trembling lips, soft sad expression, blush",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_desperation_s11000.png",
+    "date": "2026-10-25T19:55:19",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, desperate, wide shaking eyes, tears, mouth open, reaching toward viewer, panicked",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_surprise_s11000.png",
+    "date": "2026-10-25T19:55:39",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, surprised, wide eyes, mouth open, shocked, eyebrows raised",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_anger_s11000.png",
+    "date": "2026-10-25T19:55:58",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, furious, glaring, shouting, angry veins, snarling, intense red eyes",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_mockery_s11000.png",
+    "date": "2026-10-25T19:56:18",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, laughing, mocking, open mouth laughter, teasing, covering mouth with hand",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_tenderness_s11000.png",
+    "date": "2026-10-25T19:56:38",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, gentle warm smile, soft eyes, blushing, affectionate",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/expr/expr_fear_s11000.png",
+    "date": "2026-10-25T19:56:58",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, very long straight jet black hair with vivid red streaks, wide curved black horns, glowing red eyes, high collar black dress with keyhole neckline and gold trim, vibrant crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character expression, bust shot, upper body, looking at viewer, simple plain light gray background, terrified, pale, wide pupils shrinking, sweating, trembling",
+    "negative": "lowres, bad anatomy, bad hands, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, full body, wings",
+    "seed": 11000,
+    "size": [
+      832,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12000.png",
+    "date": "2026-10-25T21:33:55",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12000,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12001.png",
+    "date": "2026-10-25T21:34:17",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12001,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12002.png",
+    "date": "2026-10-25T21:34:39",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12002,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12003.png",
+    "date": "2026-10-25T21:35:02",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12003,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12004.png",
+    "date": "2026-10-25T21:35:25",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12004,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12005.png",
+    "date": "2026-10-25T21:35:48",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12005,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12006.png",
+    "date": "2026-10-25T21:36:10",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12006,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  },
+  {
+    "file": "concepts/vespera/bust/bust_base_s12007.png",
+    "date": "2026-10-25T21:36:33",
+    "ckpt": "animagine-xl-4.0.safetensors",
+    "prompt": "1girl, solo, demon girl, yandere, crazed grin, sharp teeth, wide eyes, glowing red eyes, very long straight jet black hair with vivid red streaks, wide curved black horns, high collar black dress with keyhole neckline and gold trim, long sleeves with red ruffled cuffs, black corset with gold lacing, vivid crimson red and black, flat colors, cel shading, thick clean black lineart, visual novel character, upper body, centered, behind a table, both hands resting on the table, leaning forward slightly, looking at viewer, front view, simple plain light gray background",
+    "negative": "lowres, bad anatomy, bad hands, extra fingers, text, error, cropped, worst quality, low quality, signature, watermark, blurry, gray hair, pastel, muted colors, wings, tail, weapon, cape, cloak, shy, cute, full body, legs, 3d",
+    "seed": 12007,
+    "size": [
+      1024,
+      1024
+    ],
+    "steps": 28,
+    "cfg": 6.0,
+    "sampler": "euler_ancestral",
+    "status": "candidato",
+    "ref": "../concepts/vespera/ref/vespera_canon_v01.png",
+    "ref_weight": 0.5
+  }
+]

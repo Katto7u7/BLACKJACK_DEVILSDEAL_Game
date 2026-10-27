@@ -1,0 +1,43 @@
+{
+ "tam": 1024,
+ "expresiones": [
+  "acida",
+  "alivio",
+  "base",
+  "enfado",
+  "escribe",
+  "nervioso",
+  "risa",
+  "susto"
+ ],
+ "parches": {
+  "blink": [
+   375,
+   224,
+   263,
+   153
+  ],
+  "talk_a": [
+   453,
+   368,
+   108,
+   106
+  ],
+  "talk_b": [
+   453,
+   368,
+   108,
+   106
+  ],
+  "talk_c": [
+   453,
+   368,
+   108,
+   106
+  ]
+ },
+ "pivote_cabeza": [
+  512,
+  420
+ ]
+}

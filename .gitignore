@@ -1,0 +1,11 @@
+**/target/  
+core/target/  
+*.rlib  
+*.rmeta  
+.godot/ 
+**/target/  
+core/target/  
+*.rlib  
+*.rmeta  
+.godot/ 
+*core/target/ 

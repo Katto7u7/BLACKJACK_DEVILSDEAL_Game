@@ -1,0 +1,126 @@
+{
+ "fps": 24,
+ "pivote_cabeza": [
+  512,
+  420
+ ],
+ "pivote_cuerpo": [
+  512,
+  900
+ ],
+ "muelles": {
+  "cabeza_xy": [
+   60,
+   9
+  ],
+  "cabeza_rot": [
+   50,
+   7
+  ],
+  "cuerpo": [
+   40,
+   8
+  ],
+  "inclinacion": [
+   30,
+   6
+  ],
+  "pelo": [
+   26,
+   2.5
+  ]
+ },
+ "parpadeo": {
+  "intervalo_s": [
+   2.0,
+   4.5
+  ],
+  "duracion_s": 0.14
+ },
+ "habla": {
+  "secuencia": [
+   "talk_b",
+   "talk_a",
+   "talk_c",
+   "talk_a",
+   "talk_b",
+   "talk_c"
+  ],
+  "hz": 9
+ },
+ "factores": {
+  "cabeza_seguir": 0.3,
+  "cuerpo_seguir": 0.08,
+  "rotacion": 0.025
+ },
+ "linea_tiempo_demo": [
+  [
+   0.0,
+   "base"
+  ],
+  [
+   1.2,
+   "arrogancia"
+  ],
+  [
+   2.4,
+   "burla"
+  ],
+  [
+   3.5999999999999996,
+   "celos"
+  ],
+  [
+   4.8,
+   "culpa"
+  ],
+  [
+   6.0,
+   "desesperacion"
+  ],
+  [
+   7.199999999999999,
+   "encanto"
+  ],
+  [
+   8.4,
+   "enfado"
+  ],
+  [
+   9.6,
+   "locura"
+  ],
+  [
+   10.799999999999999,
+   "malicia"
+  ],
+  [
+   12.0,
+   "miedo"
+  ],
+  [
+   13.2,
+   "obsesion"
+  ],
+  [
+   14.399999999999999,
+   "risa"
+  ],
+  [
+   15.6,
+   "sorpresa"
+  ],
+  [
+   16.8,
+   "ternura"
+  ],
+  [
+   18.0,
+   "vulnerable"
+  ],
+  [
+   20.4,
+   "base"
+  ]
+ ]
+}

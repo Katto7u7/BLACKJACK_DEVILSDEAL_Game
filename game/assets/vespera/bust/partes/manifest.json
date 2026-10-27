@@ -1,0 +1,122 @@
+[
+ {
+  "part": "cuerno_izq",
+  "group": "color",
+  "file": "cuerno_izq__color.png"
+ },
+ {
+  "part": "cuerno_izq",
+  "group": "sombra_propia",
+  "file": "cuerno_izq__sombra_propia.png"
+ },
+ {
+  "part": "cuerno_izq",
+  "group": "linea",
+  "file": "cuerno_izq__linea.png"
+ },
+ {
+  "part": "cuerno_der",
+  "group": "color",
+  "file": "cuerno_der__color.png"
+ },
+ {
+  "part": "cuerno_der",
+  "group": "sombra_propia",
+  "file": "cuerno_der__sombra_propia.png"
+ },
+ {
+  "part": "cuerno_der",
+  "group": "linea",
+  "file": "cuerno_der__linea.png"
+ },
+ {
+  "part": "pelo_trasero",
+  "group": "color",
+  "file": "pelo_trasero__color.png"
+ },
+ {
+  "part": "pelo_trasero",
+  "group": "sombra_propia",
+  "file": "pelo_trasero__sombra_propia.png"
+ },
+ {
+  "part": "pelo_trasero",
+  "group": "linea",
+  "file": "pelo_trasero__linea.png"
+ },
+ {
+  "part": "torso",
+  "group": "color",
+  "file": "torso__color.png"
+ },
+ {
+  "part": "torso",
+  "group": "sombra_propia",
+  "file": "torso__sombra_propia.png"
+ },
+ {
+  "part": "torso",
+  "group": "linea",
+  "file": "torso__linea.png"
+ },
+ {
+  "part": "pelo_frente",
+  "group": "color",
+  "file": "pelo_frente__color.png"
+ },
+ {
+  "part": "pelo_frente",
+  "group": "sombra_propia",
+  "file": "pelo_frente__sombra_propia.png"
+ },
+ {
+  "part": "pelo_frente",
+  "group": "linea",
+  "file": "pelo_frente__linea.png"
+ },
+ {
+  "part": "mano_izq",
+  "group": "color",
+  "file": "mano_izq__color.png"
+ },
+ {
+  "part": "mano_izq",
+  "group": "sombra_propia",
+  "file": "mano_izq__sombra_propia.png"
+ },
+ {
+  "part": "mano_izq",
+  "group": "linea",
+  "file": "mano_izq__linea.png"
+ },
+ {
+  "part": "mano_der",
+  "group": "color",
+  "file": "mano_der__color.png"
+ },
+ {
+  "part": "mano_der",
+  "group": "sombra_propia",
+  "file": "mano_der__sombra_propia.png"
+ },
+ {
+  "part": "mano_der",
+  "group": "linea",
+  "file": "mano_der__linea.png"
+ },
+ {
+  "part": "cabeza",
+  "group": "color",
+  "file": "cabeza__color.png"
+ },
+ {
+  "part": "cabeza",
+  "group": "sombra_propia",
+  "file": "cabeza__sombra_propia.png"
+ },
+ {
+  "part": "cabeza",
+  "group": "linea",
+  "file": "cabeza__linea.png"
+ }
+]

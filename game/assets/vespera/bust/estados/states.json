@@ -1,0 +1,330 @@
+{
+ "ojos": {
+  "base": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_base__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_base__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_base__linea.png"
+    }
+   ]
+  },
+  "e_shock": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_shock__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_shock__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_shock__linea.png"
+    }
+   ]
+  },
+  "e_angry": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_angry__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_angry__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_angry__linea.png"
+    }
+   ]
+  },
+  "e_smug": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_smug__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_smug__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_smug__linea.png"
+    }
+   ]
+  },
+  "e_sad": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_sad__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_sad__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_sad__linea.png"
+    }
+   ]
+  },
+  "e_blink": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_blink__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_blink__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_blink__linea.png"
+    }
+   ]
+  },
+  "e_happy": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_happy__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_happy__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_happy__linea.png"
+    }
+   ]
+  },
+  "e_heart": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_heart__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_heart__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_heart__linea.png"
+    }
+   ]
+  },
+  "e_spiral": {
+   "x": 720,
+   "y": 530,
+   "layers": [
+    {
+     "group": "color",
+     "file": "ojos_e_spiral__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "ojos_e_spiral__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "ojos_e_spiral__linea.png"
+    }
+   ]
+  }
+ },
+ "boca": {
+  "base": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_base__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_base__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_base__linea.png"
+    }
+   ]
+  },
+  "m_shout": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_shout__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_shout__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_shout__linea.png"
+    }
+   ]
+  },
+  "m_o": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_o__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_o__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_o__linea.png"
+    }
+   ]
+  },
+  "m_smirk": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_smirk__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_smirk__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_smirk__linea.png"
+    }
+   ]
+  },
+  "m_frown": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_frown__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_frown__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_frown__linea.png"
+    }
+   ]
+  },
+  "m_tongue": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_tongue__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_tongue__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_tongue__linea.png"
+    }
+   ]
+  },
+  "m_laugh": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_laugh__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_laugh__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_laugh__linea.png"
+    }
+   ]
+  },
+  "m_soft": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_soft__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_soft__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_soft__linea.png"
+    }
+   ]
+  },
+  "m_pout": {
+   "x": 840,
+   "y": 770,
+   "layers": [
+    {
+     "group": "color",
+     "file": "boca_m_pout__color.png"
+    },
+    {
+     "group": "sombra_propia",
+     "file": "boca_m_pout__sombra_propia.png"
+    },
+    {
+     "group": "linea",
+     "file": "boca_m_pout__linea.png"
+    }
+   ]
+  }
+ }
+}

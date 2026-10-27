@@ -1,0 +1,86 @@
+{
+ "fps": 24,
+ "pivote_cabeza": [
+  512,
+  420
+ ],
+ "pivote_cuerpo": [
+  512,
+  900
+ ],
+ "muelles": {
+  "cabeza_xy": [
+   45,
+   11
+  ],
+  "cabeza_rot": [
+   50,
+   7
+  ],
+  "cuerpo": [
+   40,
+   8
+  ],
+  "inclinacion": [
+   30,
+   6
+  ],
+  "pelo": [
+   26,
+   2.5
+  ]
+ },
+ "parpadeo": {
+  "intervalo_s": [
+   3.5,
+   7.0
+  ],
+  "duracion_s": 0.16
+ },
+ "habla": {
+  "secuencia": [
+   "talk_b",
+   "talk_a",
+   "talk_c",
+   "talk_a",
+   "talk_b",
+   "talk_c"
+  ],
+  "hz": 6
+ },
+ "factores": {
+  "cabeza_seguir": 0.3,
+  "cuerpo_seguir": 0.08,
+  "rotacion": 0.01
+ },
+ "linea_tiempo_demo": [
+  [
+   0.0,
+   "base"
+  ],
+  [
+   1.2,
+   "enfado_frio"
+  ],
+  [
+   2.4,
+   "evalua"
+  ],
+  [
+   3.5999999999999996,
+   "sello"
+  ],
+  [
+   4.8,
+   "sonrisa_sutil"
+  ],
+  [
+   6.0,
+   "sorpresa"
+  ],
+  [
+   8.4,
+   "base"
+  ]
+ ]
+}

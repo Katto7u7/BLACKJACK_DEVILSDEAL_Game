@@ -1,0 +1,51 @@
+{
+ "tam": 1024,
+ "expresiones": [
+  "arrogancia",
+  "base",
+  "burla",
+  "celos",
+  "culpa",
+  "desesperacion",
+  "encanto",
+  "enfado",
+  "locura",
+  "malicia",
+  "miedo",
+  "obsesion",
+  "risa",
+  "sorpresa",
+  "ternura",
+  "vulnerable"
+ ],
+ "parches": {
+  "blink": [
+   376,
+   237,
+   271,
+   143
+  ],
+  "talk_a": [
+   455,
+   370,
+   120,
+   101
+  ],
+  "talk_b": [
+   455,
+   370,
+   120,
+   101
+  ],
+  "talk_c": [
+   455,
+   370,
+   120,
+   101
+  ]
+ },
+ "pivote_cabeza": [
+  512,
+  420
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "tam": 1024,
+ "expresiones": [
+  "base",
+  "enfado_frio",
+  "evalua",
+  "sello",
+  "sonrisa_sutil",
+  "sorpresa"
+ ],
+ "parches": {
+  "blink": [
+   400,
+   225,
+   222,
+   135
+  ],
+  "talk_a": [
+   476,
+   342,
+   79,
+   85
+  ],
+  "talk_b": [
+   476,
+   342,
+   79,
+   85
+  ],
+  "talk_c": [
+   476,
+   342,
+   79,
+   85
+  ]
+ },
+ "pivote_cabeza": [
+  512,
+  420
+ ]
+}
